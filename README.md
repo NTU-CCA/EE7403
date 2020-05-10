@@ -12,7 +12,9 @@ Image Fundamentals. Image Enhancement and Restoration. Image Analysis. Decision 
 
 ### Learning Outcome:
 
-Students of this course will be trained to have the ability of utilizing mathematics to solving real- world problems in the area of image analysis and pattern recognition. Students will learn solid fundamentals in image processing and analysis, statistical estimation, machine learning, pattern recognition and classification.
+Students of this course will be trained to have the ability of utilizing mathematics to solving real-world problems in the area of image analysis and pattern recognition. Students will learn solid fundamentals in image processing and analysis, statistical estimation, machine learning, pattern recognition and classification.
+
+### Lecture Notes:
 
 |#|Content|Lecture Note|Lecturer|
 |:---:|:---:|:---:|:---:|
