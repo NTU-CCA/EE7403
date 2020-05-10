@@ -10,12 +10,9 @@ Understanding the fundamental yet critical methods of automatic image analysis a
 
 Image Fundamentals. Image Enhancement and Restoration. Image Analysis. Decision Theory and Statistical Estimation. Classification and Clustering. Dimensionality Reduction.
 
-### LEARNING OUTCOME:
+### Learning Outcome:
 
-Students of this course will be trained to have the ability of utilizing mathematics to solving real- world
-problems in the area of image analysis and pattern recognition. Students will learn solid fundamentals
-in image processing and analysis, statistical estimation, machine learning, pattern recognition and
-classification.
+Students of this course will be trained to have the ability of utilizing mathematics to solving real- world problems in the area of image analysis and pattern recognition. Students will learn solid fundamentals in image processing and analysis, statistical estimation, machine learning, pattern recognition and classification.
 
 |#|Content|Lecture Note|Lecturer|
 |:---:|:---:|:---:|:---:|
