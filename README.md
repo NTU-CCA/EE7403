@@ -14,6 +14,16 @@ Image Fundamentals. Image Enhancement and Restoration. Image Analysis. Decision 
 
 Students of this course will be trained to have the ability of utilizing mathematics to solving real-world problems in the area of image analysis and pattern recognition. Students will learn solid fundamentals in image processing and analysis, statistical estimation, machine learning, pattern recognition and classification.
 
+### Textbooks:
+
+- R. C. Gonzalez and R. E. Woods, "Digital Image Processing, 3rd Edition," <i>Pearson Prentice Hall</i>, 2008.
+- R. O. Duda, P. E. Hart, and D. G. Stork, "Pattern Classification, 2nd Edition," <i>Wiley Inter-science</i>, 2001.
+
+### References:
+
+- R. C. Gonzalez, R. E. Woods, and S. L. Eddins, "Digital Image Processing Using Matlab," <i>Pearson Prentice Hall</i>, 2004.
+- C. M. Bishop, "Pattern Recognition and Machine Learning, 2nd Edition," <i>Springer</i>, 2011.
+
 ### Lecture Notes:
 
 |#|Content|Lecture Note|Lecturer|
