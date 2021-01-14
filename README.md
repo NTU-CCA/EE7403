@@ -1,5 +1,5 @@
-|![image](https://github.com/NTU-CCA/EE7403/blob/master/logo.png)|
-|---|
+*(NOTE: All the content was found on the Internet.)*
+
 # EE7403 - Image Analysis &amp; Pattern Recognition
 
 ### Learning Objective:
@@ -23,9 +23,5 @@ Students of this course will be trained to have the ability of utilizing mathema
 
 - R. C. Gonzalez, R. E. Woods, and S. L. Eddins, "Digital Image Processing Using Matlab," <i>Pearson Prentice Hall</i>, 2004.
 - C. M. Bishop, "Pattern Recognition and Machine Learning, 2nd Edition," <i>Springer</i>, 2011.
-
-### Notes:
-
-- [EE7403 Image Foundations Note](https://github.com/NTU-CCA/EE7403/blob/master/Notes/EE7403%20Image%20Foundations%20Note.pdf)
 
 #### Copyright © School of Electrical & Electronic Engineering, Nanyang Technological University. All rights reserved.
